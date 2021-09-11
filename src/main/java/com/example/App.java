@@ -10,6 +10,6 @@ public class App {
      * @param args The arguments of the program.
      */
     public static void main(String[] args) {
-        System.out.println("Hallo Welt");        
+        System.out.println("Hallo MMBBS");        
     }
 }
